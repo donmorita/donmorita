@@ -8,4 +8,4 @@ I'm Francisco Mora, a computer engineer from 🇨🇱.
 
 ## :rocket: About Me
 
-I'm an professional with more than 15 years of experience. I've worked in industries such as Insurance, Government services, StarUps, Retail and Banking. I have experience in Web and API Test Automation working with both on-premise and cloud environments.
+I'm a professional with more than 15 years of experience. I've worked in industries such as Insurance, Government services, StarUps, Retail and Banking. I have experience in Web and API Test Automation working with both on-premise and cloud environments.
